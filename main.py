@@ -14,3 +14,7 @@ with col2:
     totally having 3+ years of teaching experience.
     """
     st.info(content)
+    content2 = """
+    Below you can find some of the apps I have built in python. Feel free to contact me!
+    """
+    st.write(content2)
